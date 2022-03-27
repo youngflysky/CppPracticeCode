@@ -1,0 +1,9 @@
+﻿  Calculator.cpp
+  characterInput.cpp
+F:\github\calculator\characterInput.cpp(24,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  main.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  calculator.vcxproj -> F:\github\calculator\x64\Release\calculator.exe
